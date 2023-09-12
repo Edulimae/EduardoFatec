@@ -7,4 +7,4 @@ if lado_a + lado_b > lado_c and lado_b + lado_c > lado_a and lado_a + lado_c > l
 
 else:
     print("Não é um triângulo possível!")
-        else
+        
