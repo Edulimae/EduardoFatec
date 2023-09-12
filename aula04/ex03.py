@@ -7,4 +7,4 @@ idade_semanas = idade_ano * 53
 print("Sua idade é", idade_ano, "anos")
 print("Sua idade em meses é", idade_meses, "meses")
 print("Sua idade em dias é", idade_dias, "dias")
-print("Sua idade em samanas é", idade_semanas, "semanas")
+print("Sua idade em semanas é", idade_semanas, "semanas")
